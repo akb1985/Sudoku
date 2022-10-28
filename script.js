@@ -49,7 +49,7 @@ function resetColor() {
     for (var i = 0; i < 9; i++) {
         for (var j = 0; j < 9; j++) {
 
-            arr[i][j].style.color = "green";
+            arr[i][j].style.color = "red";
 
 
         }
